@@ -2,10 +2,7 @@
 This tutorial will you through how to create a new angular project.
 
 ## Requirements
-* npm
-  * Grab the installer for your os [here](https://nodejs.org/en/download/). 
-  * Mac: `brew install node`
-  * Linux: Find the node/npm package for your distribution. 
+* npm 
 * angular cli
   * Install with npm using the command `npm install -g @angular/cli`
 
