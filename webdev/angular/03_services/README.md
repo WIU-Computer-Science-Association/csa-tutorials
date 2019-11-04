@@ -19,7 +19,7 @@ export class ExampleService{
 ```
 Files for services follow the naming scheme of \<cabob-cased-name\>.service.ts. For this service the file name should be `example.service.ts`. 
 
-## Providing a service
+## Service Providers
 We can list our example service as a provider from our app module.  This will make the service accessible to every component in that module.  If we listed the service as a provider in a component the service would only be accessible by that component or any nested components.  
 Inside of the ngmodule or component definition we can add an array of provided services. For instance if we wanted to provide the ExampleService from our app module we could do this:
 ```Typescript
