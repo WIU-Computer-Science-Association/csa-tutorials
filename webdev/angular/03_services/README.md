@@ -140,4 +140,4 @@ Then in the html:
 
 We use the async pipe with Observables and Subjects since they are retrieved asynchronously. For more information on observables check out [this](https://angular.io/guide/observables).
 
-4. Find a public api and create a service that can get data from there. You will need to use the HttpClient to achieve this. Look at the KanyeService as reference and follow this [guide](https://angular.io/guide/http) to learn more about the HttpClient.
+4. Find a public api and create a service that can get data from there. You will need to use the HttpClient to achieve this. Look at the KanyeService as reference and follow this [guide](https://angular.io/guide/http) to learn more about the HttpClient. You can find public apis [here](https://github.com/public-apis/public-apis). Avoid apis that require authentication.
