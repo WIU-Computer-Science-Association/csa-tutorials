@@ -32,4 +32,4 @@ Try running the project now and click the home link.
 1. Create an about component, add a route to that component, and create a link to it on the header.
 2. Make the empty path redirect to the home component. Look through the angular routing tutorial for how to do this.
 3. Create a page not found component and make all invalid paths go to that component.
-4. Add a footer component with links to your github or other social media.  Use icons for the links. (You can add icons to your assets directory and reference them from there i.e `<img src="/assets/icons/octocat.svg">`) This component should appear at the bottom of every page like the header.
+4. Add a footer component with links to your github or other social media.  Use icons for the links. (You can add icons to your assets directory and reference them from there i.e `<img src="/assets/icons/octocat.svg">`) This component should appear at the bottom of every page like the header. There are a lot of good icons [here](https://unpkg.com/browse/simple-icons@1.19.1/icons/)
